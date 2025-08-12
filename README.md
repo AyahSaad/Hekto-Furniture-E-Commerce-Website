@@ -6,7 +6,7 @@ Built using HTML and CSS, this project showcases various furniture products with
 ---
 ## Demo
 <img width="1893" height="915" alt="Screenshot 2025-08-12 122824" src="https://github.com/user-attachments/assets/90ceb944-6828-47ef-bc10-55cb6747e9a9" />
-<img width="1893" height="915" alt="Screenshot 2025-08-12 123646" src="https://github.com/user-attachments/assets/44531e53-c3ad-40f3-8451-207c8910c14a" />
+<img width="1901" height="648" alt="Screenshot 2025-08-12 123852" src="https://github.com/user-attachments/assets/387ead9e-cb02-4f5d-bf6c-e0530d3bdf60" />
 <img width="1893" height="915" alt="Screenshot 2025-08-12 123704" src="https://github.com/user-attachments/assets/6411780e-805a-421d-93e9-9858b393f995" />
 
 
